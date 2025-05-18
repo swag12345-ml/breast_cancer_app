@@ -4,4 +4,4 @@ pickle5
 plotly
 scikit_learn
 streamlit
-altair<5.0.0
+altair
